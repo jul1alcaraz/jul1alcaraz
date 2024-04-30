@@ -1,6 +1,6 @@
 # Hola, soy Julieta Alcaraz Aballay 👋🏾 👩🏾‍💻
 <p align="center">
-		<img src="https://jul1.my.canva.site/colorful-pastel-modern-personal-linkedin-banner">
+<img src="https://jul1.my.canva.site/colorful-pastel-modern-personal-linkedin-banner">
 </p>
 <pre>
 💻 Soy programadora Full Stack Junior.
