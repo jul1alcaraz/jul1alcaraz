@@ -4,7 +4,7 @@
 </p>
 <pre>
 💻 Soy programadora Full Stack Junior.
-📝 Me apasiona aprender. Las nuevas tecnologías y aplicar mis conocimientos me motivan a alcanzar seguir estudiando para lograr mis objetivos. 
+📝 Me apasiona aprender. Las nuevas tecnologías y aplicar mis conocimientos me motivan a seguir estudiando para lograr mis objetivos. 
 🩻Licenciada en Producción de Bioimágenes.
 🤓Soy una profesional comprometida con la calidad y la excelencia en todo lo que hago. 
 🤝Disfruto trabajando en equipo y tengo habilidades de comunicación efectiva y colaboración.	
