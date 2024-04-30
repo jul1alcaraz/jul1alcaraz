@@ -1,6 +1,6 @@
 # Hola, soy Julieta Alcaraz Aballay 👋🏾 👩🏾‍💻
 <p align="center">
-<img src="(https://tse4.mm.bing.net/th?id=OIP.nu6zYfwX31z8U0Q5akaHYAHaEx&pid=Api&P=0&h=180)">
+<img src="https://tse4.mm.bing.net/th?id=OIP.nu6zYfwX31z8U0Q5akaHYAHaEx&pid=Api&P=0&h=180">
 </p>
 <pre>
 💻 Soy programadora Full Stack Junior.
