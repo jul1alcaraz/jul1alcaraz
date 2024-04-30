@@ -1,6 +1,6 @@
 # Hola, soy Julieta Alcaraz Aballay 👋🏾 👩🏾‍💻
 <p align="center">
-		<img src="[https://jul1.my.canva.site/colorful-pastel-modern-personal-linkedin-banner](https://jul1.my.canva.site/colorful-pastel-modern-personal-linkedin-banner)">
+		<img src="https://jul1.my.canva.site/colorful-pastel-modern-personal-linkedin-banner">
 </p>
 <pre>
 💻 Soy programadora Full Stack Junior.
@@ -10,6 +10,7 @@
 🤝Disfruto trabajando en equipo y tengo habilidades de comunicación efectiva y colaboración.	
 🔭Incursionando en el mundo de los Datos
 </pre>
+
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -19,11 +20,11 @@
 ![Astro](https://img.shields.io/badge/Astro-%233572B6.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=red) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 <div align="center">
@@ -31,7 +32,7 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/jul1alcaraz/" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center"width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 	
 
